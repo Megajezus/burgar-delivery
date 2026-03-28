@@ -1,0 +1,9 @@
+.ozadje {
+  /* linear-gradient doda belo prosojno plast, da bo besedilo berljivo */
+  background-image: 
+                    url('/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Ozadje ostane fiksno, ko skrolaš */
+  min-height: 100vh;
+}
